@@ -5,7 +5,8 @@
 - [woowacourse-archive](#woowacourse-archive)
   * [Pre-Course](#pre-course)
   * [Level 1](#level-1)
-  * [글 쓰기](#----)
+  * [Level 2](#level-2)
+  * [기술 블로그](#----)
   * [스터디](#---)
 
 
@@ -95,7 +96,80 @@
     </tr>
 </table>
 
-## 글 쓰기
+## Level 2
+
+<table>
+    <tr>
+        <th>미션 이름</th>
+        <th>학습 키워드</th>
+        <th>Step</th>
+        <th>기간</th>
+        <th>미션 PR</th>
+        <th>URL</th>
+    </tr>
+    <tr>
+        <td rowspan="2">방탈출 예약 관리</td>
+        <td rowspan="2">Spring Core, Bean, JDBC Template,<br> HTTP Method</td>
+        <td>Step1</td>
+        <td>2024.04.16 ~ 2024.04.18</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-admin/pull/27">PR</a></td>
+        <td rowspan="2"><a href="">-</a></td>
+    </tr>
+    <tr>
+        <td>Step2</td>
+        <td>2024.04.19 ~ 2024.04.29</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-admin/pull/119">PR</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">방탈출 사용자 예약</td>
+        <td rowspan="2">DI, Controller Advice, Interceptor,<br> Argument Resolver, Exception,<br> HTTP Status Code, Session, Token</td>
+        <td>Step1</td>
+        <td>2024.04.30 ~ 2024.05.02</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-member/pull/31">PR</a></td>
+        <td rowspan="2"><a href="">-</a></td>
+    </tr>
+    <tr>
+        <td>Step2</td>
+        <td>2024.05.03 ~ 2024.05.13</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-member/pull/89">PR</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">방탈출 예약 대기</td>
+        <td rowspan="2">Spring Data JPA, Text Fixture, @Transactional</td>
+        <td>Step1</td>
+        <td>2024.05.14 ~ 2024.05.16</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/27">PR</a></td>
+        <td rowspan="2"><a href="">-</a></td>
+    </tr>
+    <tr>
+        <td>Step2</td>
+        <td>2024.05.17 ~ 2024.05.27</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-waiting/pull/100">PR</a></td>
+    </tr>
+    <tr>
+        <td rowspan="2">방탈출 결제 배포</td>
+        <td rowspan="2">RestClient, VPC, Subnet, RestDocs, HTTPS, Shell Script </td>
+        <td>Step1</td>
+        <td>2024.05.28 ~ 2024.05.30</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-payment/pull/26">PR</a></td>
+        <td rowspan="2"><a href="">-</a></td>
+    </tr>
+    <tr>
+        <td>Step2</td>
+        <td>2024.05.31 ~ 2024.06.10</td>
+        <td><a href="https://github.com/woowacourse/spring-roomescape-payment/pull/84">PR</a></td>
+    </tr>
+    <tr>
+        <td>글쓰기 미션</td>
+        <td>청중 입장에서 발표하기</td>
+        <td>Step2</td>
+        <td>2024.05.22 ~ 2024.06.12</td>
+        <td><a href="https://github.com/woowacourse/woowa-writing/pull/171">PR</a></td>
+        <td><a href="https://velog.io/@chocochip/%EB%A0%88%EB%B2%A8-2-%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B2%AD%EC%A4%91%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EB%B3%B4%EB%8B%A4">Link</a></td>
+    </tr>
+</table>
+
+## 기술 블로그
 
 <table>
     <tr>
@@ -152,11 +226,107 @@
         <td>2024.04.15</td>
         <td><a href="https://velog.io/@chocochip/%EC%B6%94%EC%83%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%ED%8C%A8%ED%84%B4-Abstract-Factory-Pattern">Link</a></td>
     </tr>
+        <tr>
+        <td>Spring의 IoC</td>
+        <td>IoC</td>
+        <td>2024.04.17</td>
+        <td><a href="https://velog.io/@chocochip/Spring-IoC">Link</a></td>
+    </tr>
+        <tr>
+        <td>Application Context와 Bean Scope</td>
+        <td>Application Context, Bean Scope</td>
+        <td>2024.04.17</td>
+        <td><a href="https://velog.io/@chocochip/%EC%8B%B1%EA%B8%80-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC%EC%99%80-Bean-Scope">Link</a></td>
+    </tr>
+        <tr>
+        <td>Bean Life Cycle</td>
+        <td>Bean Life Cycle</td>
+        <td>2024.04.18</td>
+        <td><a href="https://velog.io/@chocochip/Bean-Life-Cycle-%EA%B4%80%EB%A6%AC">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>@ComponentScan</td>
+        <td>@ComponentScan</td>
+        <td>2024.04.18</td>
+        <td><a href="https://velog.io/@chocochip/Component-Scan">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>@Configuration</td>
+        <td>@Configuration</td>
+        <td>2024.04.19</td>
+        <td><a href="https://velog.io/@chocochip/Configuration">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>JdbcTemplate</td>
+        <td>JdbcTemplate</td>
+        <td>2024.04.22</td>
+        <td><a href="https://velog.io/@chocochip/JdbcTemplate">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>DAO 패턴 vs Repository 패턴, @Repository</td>
+        <td>DAO, Repository</td>
+        <td>2024.04.22</td>
+        <td><a href="https://velog.io/@chocochip/Repository">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Interceptor</td>
+        <td>Interceptor</td>
+        <td>2024.05.14</td>
+        <td><a href="https://velog.io/@chocochip/Spring-Interceptor">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Argument Resolver</td>
+        <td>Argument Resolver</td>
+        <td>2024.05.14</td>
+        <td><a href="https://velog.io/@chocochip/Argument-Resolver">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>@Transactional</td>
+        <td>@Transactional</td>
+        <td>2024.05.16</td>
+        <td><a href="https://velog.io/@chocochip/Transactional">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Proxy</td>
+        <td>JDK Dynamic Proxy, CGLIB Proxy</td>
+        <td>2024.05.23</td>
+        <td><a href="https://velog.io/@chocochip/Proxy">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Linux 정리</td>
+        <td>chmod, kill, ping, ssh, scp</td>
+        <td>2024.05.26</td>
+        <td><a href="https://velog.io/@chocochip/Linux-%EC%A0%95%EB%A6%AC">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>RestClient</td>
+        <td>RestTemplate, RestClient</td>
+        <td>2024.05.30</td>
+        <td><a href="https://velog.io/@chocochip/RestClient">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>토스 결제 연동하기</td>
+        <td>RestClient, Timeout</td>
+        <td>2024.06.06</td>
+        <td><a href="https://velog.io/@chocochip/%ED%86%A0%EC%8A%A4-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0">Link</a></td>
+    </tr>
 </table>
 
 
+
 ## 스터디
-### DB 스터디
+### MySQL 스터디
 <table>
     <tr>
         <th>책</th>
@@ -168,24 +338,55 @@
         <td>데이터베이스 개론과 실습</td>
         <td>무결성 제약조건, 키, 관계대수, 뷰, 인덱스</td>
         <td>2024.03.18</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/1">Link</a></td>
     </tr>
     <tr>
         <td>데이터베이스 개론과 실습</td>
         <td>정규화, 트랜잭션, 락</td>
         <td>2024.03.27</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/5">Link</a></td>
     </tr>
     <tr>
         <td>Real MySQL 8.0 (1권)</td>
         <td>MySQL 아키텍처</td>
         <td>2024.04.08</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/10">Link</a></td>
     </tr>
     <tr>
         <td>Real MySQL 8.0 (1권)</td>
         <td>트랜잭션과 잠금</td>
         <td>2024.04.16</td>
-        <td><a href="">Link</a></td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/14">Link</a></td>
     </tr>
+    <tr>
+        <td>Real MySQL 8.0 (1권)</td>
+        <td>인덱스</td>
+        <td>2024.04.26</td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/19">Link</a></td>
+    </tr>
+    <tr>
+        <td>Real MySQL 8.0 (1권)</td>
+        <td>MySQL 아키텍처 복습</td>
+        <td>2024.05.07</td>
+        <td><a href="">-</a></td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>정규화, ERD Practice 1</td>
+        <td>2024.05.13</td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/23/files">Link</a></td>
+    </tr>
+    <tr>
+        <td>Real MySQL 8.0 (1권)</td>
+        <td>트랜잭션과 잠금 복습</td>
+        <td>2024.05.20</td>
+        <td><a href="">-</a></td>
+    </tr>
+    <tr>
+        <td>Real MySQL 8.0 (1권)</td>
+        <td>옵티마이저와 힌트</td>
+        <td>2024.06.03</td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/25">Link</a></td>
+    </tr>
+
 </table>
