@@ -6,8 +6,8 @@
   * [Pre-Course](#pre-course)
   * [Level 1](#level-1)
   * [Level 2](#level-2)
-  * [기술 블로그](#----)
-  * [스터디](#---)
+  * [기술 블로그](#기술-블로그)
+  * [스터디](#스터디)
 
 
 ## Pre-Course
