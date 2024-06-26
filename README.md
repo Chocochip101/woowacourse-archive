@@ -162,14 +162,14 @@
     <tr>
         <td>글쓰기 미션</td>
         <td>청중 입장에서 발표하기</td>
-        <td>Step2</td>
+        <td>Step1</td>
         <td>2024.05.22 ~ 2024.06.12</td>
         <td><a href="https://github.com/woowacourse/woowa-writing/pull/171">PR</a></td>
         <td><a href="https://velog.io/@chocochip/%EB%A0%88%EB%B2%A8-2-%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B2%AD%EC%A4%91%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EB%B3%B4%EB%8B%A4">Link</a></td>
     </tr>
 </table>
 
-## 기술 블로그
+## 기술 블로그 (Tech Blog)
 
 <table>
     <tr>
@@ -186,19 +186,19 @@
     </tr>
     <tr>
         <td>팩터리 메서드 패턴 (Factory Method Pattern)</td>
-        <td>팩터리 메서드 패턴</td>
+        <td>Factory Method Pattern</td>
         <td>2024.02.21</td>
         <td><a href="https://velog.io/@chocochip/Factory-Method-Pattern-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4">Link</a></td>
     </tr>
     <tr>
         <td>직렬화 (Serialization)</td>
-        <td>직렬화</td>
+        <td>Serialization</td>
         <td>2024.02.26</td>
         <td><a href="https://velog.io/@chocochip/%EC%A7%81%EB%A0%A5%ED%99%94-Serialization">Link</a></td>
     </tr>
     <tr>
         <td>ArrayList의 크기(Size)가 어떻게 변할까?</td>
-        <td>ArrayList</td>
+        <td>ArrayList, size</td>
         <td>2024.03.31</td>
         <td><a href="https://velog.io/@chocochip/ArrayList%EC%9D%98-%ED%81%AC%EA%B8%B0Size%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%ED%95%A0%EA%B9%8C">Link</a></td>
     </tr>
@@ -216,13 +216,13 @@
     </tr>
      <tr>
         <td>테스트 더블</td>
-        <td>테스트 더블</td>
+        <td>Test Doubles</td>
         <td>2024.04.14</td>
         <td><a href="https://velog.io/@chocochip/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8D%94%EB%B8%94-Test-Double">Link</a></td>
     </tr>
     <tr>
         <td>추상 팩터리 패턴 (Abstract Factory Pattern)</td>
-        <td>추상 팩터리 패턴</td>
+        <td>Abstract Factory Pattern</td>
         <td>2024.04.15</td>
         <td><a href="https://velog.io/@chocochip/%EC%B6%94%EC%83%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%ED%8C%A8%ED%84%B4-Abstract-Factory-Pattern">Link</a></td>
     </tr>
@@ -268,7 +268,7 @@
     </tr>
         <tr>
         <td>DAO 패턴 vs Repository 패턴, @Repository</td>
-        <td>DAO, Repository</td>
+        <td>DAO, Repository Pattern</td>
         <td>2024.04.22</td>
         <td><a href="https://velog.io/@chocochip/Repository">Link</a></td>
     </tr>
@@ -321,12 +321,47 @@
         <td>2024.06.06</td>
         <td><a href="https://velog.io/@chocochip/%ED%86%A0%EC%8A%A4-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0">Link</a></td>
     </tr>
+    </tr>
+        <tr>
+        <td>쿠키, 세션</td>
+        <td>Cookie, Session</td>
+        <td>2024.06.21</td>
+        <td><a href="https://velog.io/@chocochip/%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>토큰, JWT</td>
+        <td>Token, JWT</td>
+        <td>2024.06.21</td>
+        <td><a href="https://velog.io/@chocochip/%ED%86%A0%ED%81%B0-JWT">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Logging</td>
+        <td>SLF4J, Logback</td>
+        <td>2024.06.22</td>
+        <td><a href="https://velog.io/@chocochip/Logging">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>Basic 인증과 Bearer 인증</td>
+        <td>Basic Auth, Bearer Auth</td>
+        <td>2024.06.23</td>
+        <td><a href="https://velog.io/@chocochip/Basic-%EC%9D%B8%EC%A6%9D%EA%B3%BC-Bearer-%EC%9D%B8%EC%A6%9D">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>@ExceptionHandler, @ControllerAdvice</td>
+        <td>@ExceptionHandler, @ControllerAdvice</td>
+        <td>2024.06.26</td>
+        <td><a href="https://velog.io/@chocochip/ExceptionHandler-ControllerAdvice">Link</a></td>
+    </tr>
 </table>
 
 
 
-## 스터디
-### MySQL 스터디
+## 스터디 (Study)
+### MySQL 스터디 (MySQL Study)
 <table>
     <tr>
         <th>책</th>
