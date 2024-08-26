@@ -6,7 +6,7 @@
   * [Pre-Course](#pre-course)
   * [Level 1](#level-1)
   * [Level 2](#level-2)
-  * [기술 블로그](#기술-블로그)
+  * [기술 블로그](#기술-블로그-Tech-Blog)
   * [스터디](#스터디)
 
 
@@ -168,6 +168,30 @@
         <td><a href="https://velog.io/@chocochip/%EB%A0%88%EB%B2%A8-2-%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%B2%AD%EC%A4%91%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B0%9C%ED%91%9C%EB%A5%BC-%EB%B3%B4%EB%8B%A4">Link</a></td>
     </tr>
 </table>
+
+
+## Level 3
+
+<table>
+    <tr>
+        <th>미션 이름</th>
+        <th>학습 키워드</th>
+        <th>Step</th>
+        <th>기간</th>
+        <th>미션 PR</th>
+        <th>URL</th>
+    </tr>
+    <tr>
+        <td>글쓰기 미션</td>
+        <td>협업 속에서 발견한 나의 유연성</td>
+        <td>Step1</td>
+        <td>2024.08.09 ~ 2024.08.19</td>
+        <td><a href="https://github.com/woowacourse/woowa-writing/pull/171">PR</a></td>
+        <td><a href="https://velog.io/@chocochip/%EB%A0%88%EB%B2%A8-3-%EA%B8%80%EC%93%B0%EA%B8%B0-%ED%98%91%EC%97%85-%EC%86%8D%EC%97%90%EC%84%9C-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EB%82%98%EC%9D%98-%EC%9C%A0%EC%97%B0%EC%84%B1">Link</a></td>
+    </tr>
+</table>
+
+
 
 ## 기술 블로그 (Tech Blog)
 
@@ -422,6 +446,18 @@
         <td>옵티마이저와 힌트</td>
         <td>2024.06.03</td>
         <td><a href="https://github.com/Chocochip101/DB-Study/pull/25">Link</a></td>
+    </tr>
+    <tr>
+        <td>Real MySQL 8.0 (1권)</td>
+        <td>실행 계획</td>
+        <td>2024.06.07</td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/25">Link</a></td>
+    </tr>
+    <tr>
+        <td>Real MySQL 8.0 (2권)</td>
+        <td>쿼리 시스템 변수</td>
+        <td>2024.08.10</td>
+        <td><a href="https://github.com/Chocochip101/DB-Study/pull/29">Link</a></td>
     </tr>
 
 </table>
