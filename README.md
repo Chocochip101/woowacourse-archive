@@ -186,7 +186,7 @@
         <td>협업 속에서 발견한 나의 유연성</td>
         <td>Step1</td>
         <td>2024.08.09 ~ 2024.08.19</td>
-        <td><a href="https://github.com/woowacourse/woowa-writing/pull/171">PR</a></td>
+        <td><a href="https://github.com/woowacourse/woowa-writing/pull/305">PR</a></td>
         <td><a href="https://velog.io/@chocochip/%EB%A0%88%EB%B2%A8-3-%EA%B8%80%EC%93%B0%EA%B8%B0-%ED%98%91%EC%97%85-%EC%86%8D%EC%97%90%EC%84%9C-%EB%B0%9C%EA%B2%AC%ED%95%9C-%EB%82%98%EC%9D%98-%EC%9C%A0%EC%97%B0%EC%84%B1">Link</a></td>
     </tr>
 </table>
