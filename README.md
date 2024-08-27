@@ -8,6 +8,7 @@
   * [Level 2](#level-2)
   * [기술 블로그](#기술-블로그-Tech-Blog)
   * [스터디](#스터디)
+  * [발표](#발표)
 
 
 ## Pre-Course
@@ -488,4 +489,42 @@
         <td><a href="https://github.com/Chocochip101/DB-Study/pull/29">Link</a></td>
     </tr>
 
+</table>
+
+## 발표
+
+<table>
+    <tr>
+        <th>제목</th>
+        <th>키워드</th>
+        <th>발표일</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>About Me!</td>
+        <td>자기소개</td>
+        <td>2024.03.02</td>
+        <td><a href="">-</a></td>
+    </tr>
+        </tr>
+    <tr>
+        <td>객체 협력 관계 3단 진화</td>
+        <td>객체지향</td>
+        <td>2024.05.17</td>
+        <td><a href="">-</a></td>
+    </tr>
+        </tr>
+        <tr>
+        <td>내가 받은  데이터베이스  관련 질문질답  공유함!</td>
+        <td>FK, ORDER BY</td>
+        <td>2024.06.10</td>
+        <td><a href="">-</a></td>
+    </tr>
+        </tr>
+        <tr>
+        <td>10분 테코톡 - 인덱스와 스캔튜닝</td>
+        <td>인덱스, B-Tree, Scan</td>
+        <td>2024.07.25</td>
+        <td><a href="">-</a></td>
+    </tr>
 </table>
