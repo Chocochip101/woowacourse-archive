@@ -380,6 +380,34 @@
         <td>2024.06.26</td>
         <td><a href="https://velog.io/@chocochip/ExceptionHandler-ControllerAdvice">Link</a></td>
     </tr>
+    </tr>
+        <tr>
+        <td>Github Action를 이용한 JaCoCo 도입기</td>
+        <td>CI/CD, Github Action, JaCoCo</td>
+        <td>2024.08.02</td>
+        <td><a href="https://blog.cruru.kr/posts/github-action%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-jacoco-%EB%8F%84%EC%9E%85%EA%B8%B0/">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>팀 크루루의 프론트엔드와 백엔드 협업</td>
+        <td>협업, API</td>
+        <td>2024.08.08</td>
+        <td><a href="https://blog.cruru.kr/posts/%ED%8C%80-%ED%81%AC%EB%A3%A8%EB%A3%A8%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C-%ED%98%91%EC%97%85/">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>운영 환경 구축기 (1) - 서버 구축</td>
+        <td>인프라</td>
+        <td>2024.08.12</td>
+        <td><a href="https://blog.cruru.kr/posts/%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%EA%B8%B0-1-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95/">Link</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td>운영 환경 구축기 (2) - Flyway 적용하기</td>
+        <td>인프라, Flyway</td>
+        <td>2024.08.14</td>
+        <td><a href="https://blog.cruru.kr/posts/%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%EA%B8%B0-2-flyway-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">Link</a></td>
+    </tr>
 </table>
 
 
